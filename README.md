@@ -76,7 +76,3 @@ python capm_strategy.py
 - Ensure the RIT client is running locally on port 9999.
 - Scripts include safeguards for API errors and graceful shutdown.
 - News parsing assumes specific formatting for extracting financial indicators.
-
-## License
-
-This project is intended for educational and competitive use within the Rotman Trading environment. Please adhere to the competition rules and API usage guidelines.
